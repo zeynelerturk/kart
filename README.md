@@ -1,5 +1,4 @@
 # kart
 # kart
 
-![kart](https://github.com/zeynelerturk/kart/assets/147662920/da7b89fd-32d8-41fe-85e2-c21cd6880ef7)
-
+![kart-1](https://github.com/zeynelerturk/kart/assets/147662920/dc339ddd-fa3a-425b-944d-a655fabe4e57)
